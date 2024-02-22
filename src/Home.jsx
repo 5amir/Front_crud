@@ -27,6 +27,9 @@ export function Home() {
         <Link to="/create">
           <button className="btn btn-success">Add +</button>
         </Link>
+        <Link to="/image">
+          <button className="btn btn-dark">image</button>
+        </Link>
         <table className="table">
           <thead>
             <tr>
